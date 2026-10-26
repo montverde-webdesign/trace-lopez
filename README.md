@@ -1,4 +1,4 @@
-# [Your first name]'s Section
+# Trace Lopez's Section
 
 My section of the Web Design class site.
 
